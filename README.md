@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in any.
+* 🌍  I'm a developer from Bhutan.
 * ✉️  You can contact me at [deanvr42@gmail.com](mailto:deanvr42@gmail.com)
 * 🧠  I'm learning I’m currently learning with nextjs.
 * 🤝  I'm open to collaborating on interesting projects as a developer
